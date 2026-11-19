@@ -13,9 +13,9 @@ mixins:
   streamlit_shared:
     artifacts:
       - pyproject.toml
-      - Custom Smoothie Order Form.py
+      - streamlit_app.py
       - .streamlit/config.toml
     title: Custom Smoothie Order Form
     query_warehouse: COMPUTE_WH
     compute_pool: SYSTEM_COMPUTE_POOL_CPU
-    main_file: Custom Smoothie Order Form.py
+    main_file: streamlit_app.py
