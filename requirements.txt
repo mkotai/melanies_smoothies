@@ -1,4 +1,4 @@
 # requirements.txt
 
-snowflake-snowpark-pyton
+snowflake-snowpark-phyton
 streamlit
